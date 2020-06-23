@@ -3,12 +3,9 @@
 
 ## Feature
 
-k8s log dataflow  to GCS.
-Parse each pods log
-Pub/Sub to GCS (Compress GZip)
-
-
-- wr
+- k8s log dataflow  to GCS.
+- Parse each pods log
+- Pub/Sub to GCS (Compress GZip)
 - timezone
 
 ## Preparation
